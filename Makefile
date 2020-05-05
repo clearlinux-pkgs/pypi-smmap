@@ -1,5 +1,5 @@
 PKG_NAME := smmap
-URL = https://files.pythonhosted.org/packages/89/2f/8902ee436e7e24e059973f9d7cbc1a433df10c93239f59c1d8539a86a6a5/smmap-3.0.2.tar.gz
+URL = https://files.pythonhosted.org/packages/75/fb/2f594e5364f9c986b2c89eb662fc6067292cb3df2b88ae31c939b9138bb9/smmap-3.0.4.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
