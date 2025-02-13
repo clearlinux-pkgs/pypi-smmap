@@ -7,7 +7,7 @@
 #
 Name     : pypi-smmap
 Version  : 5.0.2
-Release  : 35
+Release  : 36
 URL      : https://files.pythonhosted.org/packages/44/cd/a040c4b3119bbe532e5b0732286f805445375489fceaec1f48306068ee3b/smmap-5.0.2.tar.gz
 Source0  : https://files.pythonhosted.org/packages/44/cd/a040c4b3119bbe532e5b0732286f805445375489fceaec1f48306068ee3b/smmap-5.0.2.tar.gz
 Summary  : A pure Python implementation of a sliding window memory map manager
